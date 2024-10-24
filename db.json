@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "email": "rik@live.it",
+      "password": "$2a$10$kM1dTGH3Fy.iM6MYi8v1POJa/IXwT5Gq2zbGFYE7gypnyOjzmMmbG",
+      "name": "riccardo",
+      "id": 1
+    },
+    {
+      "email": "gian@marco.it",
+      "password": "$2a$10$WJ2XQAAKZXE.R3LkewN9tePUkC5th9t1e81xv76bKWiAESGYxfYKS",
+      "name": "gianmarco",
+      "id": 2
+    },
+    {
+      "email": "gianmarco@arz.com",
+      "password": "$2a$10$yP6ji8bMy38kzotEOToKEuH97VAnKwICtRobsmwbYGa7D9T.uoYJa",
+      "name": "arrz",
+      "id": 3
+    },
+    {
+      "email": "ant@on.io",
+      "password": "$2a$10$evCkHOcu5JSBaQ1CXXqOTOK0x4DZudZs60tgdYuWl/Wmz576JwZym",
+      "name": "antonio",
+      "id": 4
+    },
+    {
+      "email": "nome@e.it",
+      "password": "$2a$10$mxNiFrrWNxcPPFLgW8nETeOg9Put0McvIiwcLeYx316CoiDYW1UuW",
+      "name": "nome",
+      "id": 5
+    }
+  ]
+}
